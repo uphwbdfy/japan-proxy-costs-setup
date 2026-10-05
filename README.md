@@ -1,0 +1,1 @@
+# japan-proxy-costs-setup
